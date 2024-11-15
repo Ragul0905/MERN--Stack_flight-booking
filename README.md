@@ -34,6 +34,24 @@ The **Flight Booking App** is a comprehensive platform built with the MERN stack
   - `JWT_SECRET`: Secret for JWT
   - `API_KEY`: For third-party services like payment gateway
 
+## Technologies Used
+
+### Frontend:
+- **React**: For building user interfaces and managing state.
+- **React Router**: For navigation and routing between pages.
+- **Axios**: For making HTTP requests to the backend API.
+- **Bootstrap/CSS**: For responsive and styled UI components.
+
+### Backend:
+- **Node.js**: JavaScript runtime environment for server-side code.
+- **Express.js**: Web application framework for building RESTful APIs.
+- **MongoDB & Mongoose**: Database for storing user, flight, and booking data.
+- **bcrypt**: For secure password hashing.
+- **cors**: Middleware for handling Cross-Origin Resource Sharing.
+
+### Tools:
+- **npm**: For managing dependencies and scripts.
+- **Git & GitHub**: For version control and collaborative development.
 
 # Flight-Booking-App-MERN
 Flight Booking App Demo link- <a href="https://drive.google.com/file/d/1Cb8bDraKP1GvFWSaNeCMAt1IvTivvsZR/view?usp=drive_link">view video</a>
